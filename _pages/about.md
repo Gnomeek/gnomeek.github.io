@@ -13,10 +13,12 @@ Hello there, I am a MSc student in Information Technology at the Hong Kong Polyt
 Movies
 ======
 My douban site is [Douban](https://www.douban.com/people/152076608/)
+
 I have watched all the movies directed by following directors:
 - Wes Anderson, U.S.
 - Christopher Nolan, U.K.
 - Lee Chang-dong, South Koera
+
 I have participated in followint film festivals as cinephiles:
 - HKAFF2018(Hong Kong Asian Film Festival), Hong Kong
 - FIRST2020(FIRST International Film Festival), Xining, China
