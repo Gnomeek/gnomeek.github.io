@@ -3,7 +3,7 @@ title: "Long-term Cross Adversarial Training: A Robust Meta-learning Method for 
 collection: publications
 permalink: /publication/LCAT
 excerpt: 'A Robust Meta-learning Method for Few-shot Classification Tasks'
-date: 2021-06
+date: 2021-06-22
 venue: 'ICML 2021 Workshop on Adversarial Machine Learning'
 paperurl: 'https://arxiv.org/pdf/2106.12900.pdf'
 citation: 'Liu, F., **Zhao, S.**, Dai, X., & Xiao, B. (2021). Long-term Cross Adversarial Training: A Robust Meta-learning Method for Few-shot Classification Tasks. arXiv preprint arXiv:2106.12900.'
