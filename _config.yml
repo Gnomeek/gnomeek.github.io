@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Will ZHAO"
 title_separator          : "-"
 name                     : &name "Will Zhao"
-description              : &description "Coder/Writer/Cinephile"
+description              : &description ""
 url                      : https://gnomeek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gnomeek/gnomeek.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Will Zhao"
   avatar           : "profile.png"
-  bio              : "Deadpan Loser"
+  bio              : "Coder/Writer/Cinephile"
   location         : "China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
