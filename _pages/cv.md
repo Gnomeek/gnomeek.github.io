@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* Nov. 2020 - March 2021: Quality Assurance Engineer
+* Nov. 2020 - March 2021: Quality Assurance Engineer Intern
   * Bytedance, Douyin E-commerce
 
-* April. 2020 - Sept. 2020: Game & Culture Market Researcher 
+* April. 2020 - Sept. 2020: Game & Culture Market Researcher Intern
   * Tencent, i_MUR
 
-* Nov. 2019 - April 2021: Software Developer Engineer in Testing
+* Nov. 2019 - April 2021: Software Developer Engineer in Testing Intern
   * Tencent, Wechat Work
   
 <!-- Skills
