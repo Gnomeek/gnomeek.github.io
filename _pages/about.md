@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there, I am a MSc student in Information Technology at the Hong Kong Polytechnic University (PolyU), advised by Prof. Bin Xiao. Before that, I was an undergraduate student in B.S. Network Engineering from GDUT, where I was fortunated to be advised by Prof. Dongning Liu.
+Hello there, I am a MSc student in Information Technology at the Hong Kong Polytechnic University (PolyU), advised by Prof. Bin Xiao. Before that, I was an undergraduate student in B.S. Network Engineering from GDUT, where I was advised by Prof. Dongning Liu.
 
 Movies
 ======
